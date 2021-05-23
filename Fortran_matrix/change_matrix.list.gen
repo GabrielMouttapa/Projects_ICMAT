@@ -1,0 +1,5 @@
+&change_matrix
+    n = ---n---,
+    m = ---m---,
+    target_file = "/LUSTRE/users/gmouttapa/gfd_course/Projects_ICMAT/Fortran_matrix/Matrix/---n---,---m---.mat"
+    /

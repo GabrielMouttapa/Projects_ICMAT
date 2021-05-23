@@ -1,0 +1,19 @@
+#!/bin/bash
+while [ $# -gt 0 ]
+do
+    case ${1} in
+        -f | --fortran) fortran=${2};;
+    esac
+    shift
+done
+
+if [ -z "${fortran+xxx}" ]
+then
+    echo "Error. f90 file doesn't exit"
+    exit
+fi
+
+root_fortran=$(echo ${fortran} | awk -F '.' '{print $1}') # awk sert à enlever le point, après print $1 permet de prendre que le premier élément de la liste donc file.f90 devient file f90 puis file, donc on garde que le nom du fichier
+echo ${root_fortran}
+
+gfortran -std=f2003 -Wextra -Wall ${fortran} -o ${root_fortran}.out
