@@ -1,5 +1,0 @@
-&change_matrix
-    n = 5,
-    m = 5,
-    target_file = "/LUSTRE/users/gmouttapa/gfd_course/Projects_ICMAT/Fortran_matrix/Matrix/5,5.mat"
-    /

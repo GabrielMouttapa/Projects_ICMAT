@@ -1,0 +1,5 @@
+&change_matrix
+    n = ---n---,
+    m = ---m---,
+    target_file = "../../outputs/Matrix/---n---x---m---.mat"
+    /
