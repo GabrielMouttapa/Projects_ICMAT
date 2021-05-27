@@ -1,0 +1,5 @@
+#!/bin/bash
+
+module load ROMS/intel
+ifort ${1} -o ${1%.*} -I${NETCDF}/include -L${NETCDF}/lib -lnetcdff
+
