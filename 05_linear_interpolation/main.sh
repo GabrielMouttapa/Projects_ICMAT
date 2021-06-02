@@ -1,3 +1,3 @@
 #!/bin/bash
 
-scr/linear_interpolation.out
+src/linear_interpolation.out

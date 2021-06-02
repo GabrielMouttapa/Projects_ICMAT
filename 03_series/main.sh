@@ -1,3 +1,3 @@
 #!/bin/bash
 
-scr/sums.out
+src/sums.out

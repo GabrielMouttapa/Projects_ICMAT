@@ -1,0 +1,43 @@
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x2»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x3/write_matrix.f90»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x3/write_matrix.sh»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x4/write_matrix.f90»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x4/write_matrix.sh»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x5»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_1x5»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_2x1»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_2x2/change_matrix.list»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_2x2/write_matrix.out»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_2x2/write_matrix.f90»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_2x2/write_matrix.sh»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_2x3/change_matrix.list»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_2x3/write_matrix.out»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_2x3/write_matrix.f90»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_2x3/write_matrix.sh»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_2x4»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_2x5»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x1/change_matrix.list»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x1/write_matrix.out»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x1/write_matrix.f90»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x1/write_matrix.sh»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x2»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x3»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x4/change_matrix.list»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x4/write_matrix.out»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x4/write_matrix.f90»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x4/write_matrix.sh»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_3x5»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_4x1»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_4x2/change_matrix.list»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_4x2/write_matrix.out»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_4x2/write_matrix.f90»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_4x2/write_matrix.sh»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_4x3»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_4x4/change_matrix.list»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_4x4/write_matrix.out»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_4x4/write_matrix.f90»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_4x4/write_matrix.sh»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_4x5/change_matrix.list»: No existe el fichero o el directorio
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_4x5/write_matrix.out»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_4x5/write_matrix.f90»: Identificador de archivos obsoletos
+rm: no se puede borrar «/LUSTRE/users/gmouttapa/documents/Projects_ICMAT/04_matrix/data/inputs/folder_4x5/write_matrix.sh»: Identificador de archivos obsoletos

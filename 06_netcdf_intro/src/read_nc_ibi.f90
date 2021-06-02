@@ -120,7 +120,7 @@ program read_nc_ibi
         "lat dim definition")
     call check(nf90_def_dim(ncid, "latitude", dimlat, lat_dimid), &
         "long dim def")
-    call check(nf90_def_dim(ncid, "time", dimtime, time_dimid), &
+    call check(nf90_def_dim(ncid, "time", nf90_unlimited, time_dimid), &
         "tim dim def")
 
     ! definition of variables
