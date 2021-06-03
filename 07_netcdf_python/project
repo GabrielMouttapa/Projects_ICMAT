@@ -1,0 +1,4 @@
+1) read uo, vo [0, , :, :]
+2) calculer la norme de la vitesse
+3)plot this avec lat et long (georeferenced)
+4) trouver comment faire des flèches (quiver)
