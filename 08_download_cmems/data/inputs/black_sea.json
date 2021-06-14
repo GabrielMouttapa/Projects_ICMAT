@@ -1,0 +1,15 @@
+{
+    "depth_min": 0.5,
+	"depth_max": 0.5003,
+    "long_min": 27.25,
+    "long_max": 42,
+    "lat_min": 40.5,
+    "lat_max": 47,
+    "date_min": "2021-02-15",
+    "time_min": "12:00:00",
+    "date_max": "2021-04-15",
+    "time_max": "12:00:00",
+    "name": "black_sea",
+    "service": "BLKSEA_ANALYSISFORECAST_PHY_007_001-TDS",
+    "product": "bs-cmcc-cur-an-fc-m"
+}
